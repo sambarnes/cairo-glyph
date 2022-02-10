@@ -102,7 +102,6 @@ setup(
 ```
 
 If using poetry, have pyproject.toml like:
-```
 
 ```
 [tool.poetry]
