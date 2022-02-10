@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "glyph"
+name = "cairo-glyph"
 version = "0.0.1"
 description = "A package manager for Cairo contracts"
-authors = ["Your Name <you@example.com>"]
+authors = ["Sam Barnes <you@example.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
