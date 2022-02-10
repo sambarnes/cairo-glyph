@@ -5,6 +5,10 @@ description = "A package manager for Cairo contracts"
 authors = ["Your Name <you@example.com>"]
 license = "MIT"
 readme = "README.md"
+packages = [
+    { include = "glyph" },
+    { include = "contracts/*" },
+]
 
 [tool.poetry.scripts]
 glyph = "glyph.main:app"
